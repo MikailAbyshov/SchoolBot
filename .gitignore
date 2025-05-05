@@ -2,8 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
- *.env
-*.DS_Store 
+ # OS Generated files
+.DS_Store
+.DS_Store? 
+*.iml .idea 
 # C extensions
 *.so
 
